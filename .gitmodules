@@ -1,0 +1,3 @@
+[submodule "src/pyDrone"]
+	path = src/pyDrone
+	url = git@github.com:01studio-lab/pyDrone.git
